@@ -7,7 +7,9 @@
 body {
     background: #558b2f;
     font-family: sans-serif;
+    text-align: center;
 }
+
 
 #pagetitle { 
     width: 100%;
