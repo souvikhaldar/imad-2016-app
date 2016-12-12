@@ -14,6 +14,9 @@ app.get('/signup', function (req, res) {
 app.get('/write', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'personel.html'));
 });
+app.get('/signin', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'signin.html'));
+});
 
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
