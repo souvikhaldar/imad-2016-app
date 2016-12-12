@@ -9,7 +9,7 @@ body {
     font-family: sans-serif;
     text-align: center;
     background: url(https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2d/f2/new-york-city.jpg);
-    background-size: cover;
+    background-size: contain;
     color: #d9d9d9;
     font-size: 200%;
 }
