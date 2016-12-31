@@ -35,14 +35,14 @@ body {
     border: solid rgba(0, 0, 0, 0.35);
     border-width: 2px 0px;
     margin-bottom: 20px;
-    color: #bbbb;
+    color: #FFEBCD	;
     font-size: 1.1em;
     padding: 20px 0;
     font-size: 200%;
 }
 
 form {
-    background: rgba(0, 0, 0, 0.3);
+    background: #FFEBCD	;
     width: 40%;
     margin: 0 auto;
     padding: 50px;
@@ -55,7 +55,7 @@ form>* {
 }
 
 form > label {
-    color: #f2f2f2;
+    color: #FFEBCD	;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: bold;
